@@ -3,4 +3,4 @@ source 'https://supermarket.chef.io'
 
 metadata
 
-cookbook 'gdebi', '~> 1.1.0'
+cookbook 'gdebi', git: 'https://github.com/tuttinator/cookbook-gdebi.git'
